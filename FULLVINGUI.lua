@@ -1,6 +1,7 @@
 -- Gui to Lua
 -- Version: 3.2
-
+-- Vingui Owner Vex
+-- Updated Vingui Dyno
 -- Instances:
 
 local FULLVINGUI = Instance.new("ScreenGui")
